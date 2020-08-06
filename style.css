@@ -1,0 +1,63 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+main {
+    background-color: indigo;
+    color: white;
+    text-transform: capitalize;
+}
+
+input {
+    border: none;
+    border-radius: 20px;
+    background-color: purple;
+    width: 130px;
+    padding: 5px;
+}
+
+h5 {
+    background-color: purple;
+    width: 150px;
+    text-align: center;
+    border-radius: 100px;
+    padding: 5px;
+}
+
+#output {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 130px!important;
+    border-radius: 20px;
+    margin-bottom: 114px!important;
+}
+
+#output h5 {
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 30px;
+    padding: 10px;
+}
+
+#btn input {
+    padding: 15px;
+    width: 150px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#single input {
+    color: white;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 10px;
+}
